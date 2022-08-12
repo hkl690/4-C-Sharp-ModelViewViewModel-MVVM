@@ -40,3 +40,6 @@ C:\Users\jinaw\Documents\GitHub\4-C-Sharp-ModelViewViewModel-MVVM\WpfTreeView\Wp
 C:\Users\jinaw\Documents\GitHub\4-C-Sharp-ModelViewViewModel-MVVM\WpfTreeView\WpfTreeView\obj\Debug\net6.0-windows\WpfTreeView.pdb
 C:\Users\jinaw\Documents\GitHub\4-C-Sharp-ModelViewViewModel-MVVM\WpfTreeView\WpfTreeView\obj\Debug\net6.0-windows\WpfTreeView.genruntimeconfig.cache
 C:\Users\jinaw\Documents\GitHub\4-C-Sharp-ModelViewViewModel-MVVM\WpfTreeView\WpfTreeView\obj\Debug\net6.0-windows\ref\WpfTreeView.dll
+C:\Users\jinaw\Documents\GitHub\4-C-Sharp-ModelViewViewModel-MVVM\WpfTreeView\WpfTreeView\obj\Debug\net6.0-windows\WpfTreeView.csproj.Fody.CopyLocal.cache
+C:\Users\jinaw\Documents\GitHub\4-C-Sharp-ModelViewViewModel-MVVM\WpfTreeView\WpfTreeView\obj\Debug\net6.0-windows\WpfTreeView.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\jinaw\Documents\GitHub\4-C-Sharp-ModelViewViewModel-MVVM\WpfTreeView\WpfTreeView\bin\Debug\net6.0-windows\WpfTreeView.dll.config
