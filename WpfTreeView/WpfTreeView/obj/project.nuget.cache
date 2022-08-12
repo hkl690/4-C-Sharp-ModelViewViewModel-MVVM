@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gsT/l1AXhOVUH8ABqt31HDe2FUzujlo/sa6QEuTaetdbncJJgCsX4SKPagAzzInNpiv1YSEh8FrU9WWtA/v9TA==",
+  "dgSpecHash": "SbMH8K1zT8czyDEnDH9yZsQf1rGM8r9tvRaxx48wSDyXRubmB4Bs/j4vpcrvojSyZleGFNJDlTMkrhfsQerlEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jinaw\\Documents\\GitHub\\4-C-Sharp-ModelViewViewModel-MVVM\\WpfTreeView\\WpfTreeView\\WpfTreeView.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jinaw\\.nuget\\packages\\fody\\6.6.2\\fody.6.6.2.nupkg.sha512",
+    "C:\\Users\\jinaw\\.nuget\\packages\\propertychanged.fody\\3.4.1\\propertychanged.fody.3.4.1.nupkg.sha512"
+  ],
   "logs": []
 }
